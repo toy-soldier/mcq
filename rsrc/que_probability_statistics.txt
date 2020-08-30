@@ -1,0 +1,224 @@
+Problem 1: EE Board October 1993
+
+In a class 40 students, 27 like Calculus and 25 like Chemistry. How many like both Calculus and Chemistry?
+
+A. 10
+B. 11
+C. 12
+D. 13
+
+Problem 2: ECE Board November 1998
+
+A club of 40 executives, 33 like to smoke Marlboro and 20 like to smoke Philip Morris. How many like both?
+
+A. 10
+B. 11
+C. 12
+D. 13
+
+Problem 3: GE Board February 1994
+
+A survey of 100 persons revealed that 72 of them had eaten at restaurant P and that 52 of them had eaten at restaurant Q. Which of the following could not be the number of persons in the surveyed group who had eaten at both P and Q?
+
+A. 20
+B. 22
+C. 24
+D. 26
+
+Problem 4: ECE Board November 1992
+
+The probability for the ECE board examinees from a certain school to pass the subject Mathematics is 3/7 and for the subject Communications is 5/7. If none of the examinees fails both subject and there are 4 examinees who pass both subjects, find the number of examinees from that school who took the examinations.
+
+A. 20
+B. 25
+C. 30
+D. 28
+
+Problem 5: EE Board April 1997
+
+In a commercial survey involving 1000 persons on brand preference, 120 were found to prefer brand x only, 200 prefer brand y only, 150 prefer brand z only, 370 prefer either brand x or y but not z, 450 prefer brand y or z but not x and 370 prefer either brand z or x but not y. How many persons have no brand preference, satisfied with any of the three brands?
+
+A. 280
+B. 230
+C. 180
+D. 130
+
+Problem 6: EE Board April 1997
+
+A toothpaste firm claims that in survey of 54 people, they were using either Colgate, Hapee or Close-up brand. The following statistics were found: 6 people used all three brands, 5 used only Hapee and Close-up, 18 used Hapee or Close-up, 2 used Hapee, 2 used only Hapee and Colgate, 1 used Close-up and Colgate, and 20 used only Colgate. Is the survey worth paying for?
+
+A. Neither yes nor no
+B. Yes
+C. No
+D. Either yes or no
+
+Problem 7:
+
+How many four-letter words beginning and ending with a vowel without any letter repeated can be formed from the word “personnel”?
+
+A. 40
+B. 480
+C. 20
+D. 312
+
+Problem 8:
+
+Five different Mathematics books, 4 different electronics books and 2 different communications books are to be placed in a shelf with the books of the same subject together. Find the number of ways in which the books can be placed.
+
+A. 292
+B. 5760
+C. 34560
+D. 12870
+
+Problem 9:
+
+The number of ways can 3 nurses and 4 engineers be seated on a bench with the nurses seated together is?
+
+A. 144
+B. 258
+C. 720
+D. 450
+
+Problem 10: ECE Board November 1998
+
+If 15 people won prizes in the state lottery (assuming that there are no ties), how many ways can these 15 people win first, second, third, fourth and fifth prizes?
+
+A. 4,845
+B. 116,260
+C. 360,360
+D. 3,003
+
+Problem 11: CE Board November 1996
+
+How many 4 digit numbers can be formed without repeating any digit from the following digits: 1, 2, 3, 4 and 6?
+
+A. 120
+B. 130
+C. 140
+D. 150
+
+Problem 12: EE Board June 1990
+
+How many permutations are there if the letters PNRCSE are taken six at a time?
+
+A. 1440
+B. 480
+C. 720
+D. 360
+
+Problem 13: EE Board April 1996
+
+In how many ways can 6 distinct books be arranged in a bookshelf?
+
+A. 720
+B. 120
+C. 360
+D. 180
+
+Problem 14: EE Board April 1997
+
+What is the number of permutations of the letters in the word BANANA?
+
+A. 36
+B. 60
+C. 52
+D. 42
+
+Problem 15: ME Board April 1994
+
+A PSME unit has 10 ME’s, 8 PME’s and 6 CPM’s. If a committee of 3 members, one from each group is to be formed, how many such committees can be formed?
+
+A. 2,024
+B. 12,144
+C. 480
+D. 360
+
+Problem 16: ME Board October 1992
+
+In how many ways can a PSME Chapter with 15 directors choose a President, a Vice President, a Secretary, a Treasurer and an Auditor, if no member can hold more than one position?
+
+A. 360,360
+B. 32,760
+C. 3,003
+D. 3,603,600
+
+Problem 17: EE Board October 1997
+
+Four different colored flags can be hung in a row to make coded signal. How many signals can be made if a signal consists of the display of one or more flags?
+
+A. 64
+B. 66
+C. 68
+D. 62
+
+Problem 18: EE Board June 1990, EE Board April 1993, CHE Board May 1994
+
+In how many ways can 4 boys and 4 girls be seated alternately in a row of 8 seats?
+
+A. 1152
+B. 2304
+C. 576
+D. 2204
+
+Problem 19: EE Board October 1997
+
+There are four balls of four different colors. Two balls are taken at a time and arranged in a definite order. For example, if a white and red balls are taken, one definite arrangement is white first, red second, and another arrangement is red first, white second. How many such arrangements are possible?
+
+A. 24
+B. 6
+C. 12
+D. 36
+
+Problem 20:
+
+How many different ways can 5 boys and 5 girls form a circle with boys and girls alternate?
+
+A. 28,800
+B. 2,880
+C. 5,600
+D. 14,400
+
+Problem 21: EE Board October 1997
+
+There are four balls of different colors. Two balls at a time are taken and arranged any way. How many such combinations are possible?
+
+A. 36
+B. 3
+C. 6
+D. 12
+
+Problem 22: EE Board March 1998
+
+How many 6-number combinations can be generated from the numbers from 1 to 42 inclusive, without repetition and with no regards to the order of the numbers?
+
+A. 850,668
+B. 5,245,786
+C. 188,848,296
+D. 31,474,716
+
+Problem 23:
+
+Find the total number of combinations of three letters, J, R, T taken 1, 2, 3 at a time.
+
+A. 7
+B. 8
+C. 9
+D. 10
+
+Problem 24: ME Board October 1997
+
+In how many ways can you invite one or more of your five friends in a party?
+
+A. 15
+B. 31
+C. 36
+D. 25
+
+Problem 25: CHE November 1996
+
+In how many ways can a committee of three consisting of two chemical engineers and one mechanical engineer can be formed from four chemical engineers and three mechanical engineers?
+
+A. 18
+B. 64
+C. 32
+D. 19

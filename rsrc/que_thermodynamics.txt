@@ -1,0 +1,174 @@
+1. The term “thermodynamics” comes from Greek words “therme” and “dynamis” which means _______.
+
+A. Heat power
+B. Heat transfer
+C. Heat energy
+D. Heat motion
+
+2. The term “thermodynamics” was first used in 1849 in the publication of a
+
+A. Rudolph Clausius
+B. William Rankine
+C. Lord Kelvin
+D. Thomas Savery
+
+3. What law asserts that energy is a thermodynamic property?
+
+A. First law of Thermodynamics
+B. Second law of Thermodynamics
+C. Third law of Thermodynamics
+D. Zeroth law of Thermodynamics
+
+4. What law asserts that energy has quality as well as quantity?
+
+A. First law of Thermodynamics
+B. Second law of Thermodynamics
+C. Third law of Thermodynamics
+D. Zeroth law of Thermodynamics
+
+5. The macroscopic approach to the study of thermodynamics does not require a knowledge of the behavior of individual particles is called _____.
+
+A. Dynamic thermodynamics
+B. Static thermodynamics
+C. Statistical thermodynamics
+D. Classical thermodynamics
+
+6. What is the more elaborate approach to the study of thermodynamics and based on the average behavior of large groups of individual particles?
+
+A. Dynamic thermodynamics
+B. Static thermodynamics
+C. Statistical thermodynamics
+D. Classical thermodynamics
+
+7. What is defined a region in space chosen for study?
+
+A. Surroundings
+B. System
+C. Boundary
+D. Volume
+
+8. The first law of thermodynamics is based on which of the following principles?
+
+A. Conservation of mass
+B. Conservation of energy
+C. Action and reaction
+D. The entropy-temperature relationship
+
+9. What is the mass or region outside the system called?
+
+A. Surroundings
+B. Boundary
+C. Volume
+D. Environment
+
+10. What is the real or imaginary surface that separates the system from its surroundings?
+
+A. Division
+B. Wall
+C. Boundary
+D. Interface
+
+11. A system which consists of fixed amount of mass and no mass can cross its boundary called _____.
+
+A. Equilibrium system
+B. Thermal equilibrium system
+C. Open system
+D. Closed system
+
+12. A system in which even energy is not allowed to cross the boundary is called ____.
+
+A. Closed system
+B. Exclusive system
+C. Isolated system
+D. Special system
+
+13. A system in which there is a flow of mass is known as _____.
+
+A. Equilibrium system
+B. Isolated system
+C. Open system
+D. Closed system
+
+14. A system is in ______ equilibrium if the temperature is the same throughout the entire system.
+
+A. Static
+B. Thermal
+C. Mechanical
+D. Phase
+
+15. The boundaries of a control volume, which may either real or imaginary is called _____.
+
+A. Control boundary
+B. Control system
+C. Interface
+D. Control surface
+
+16. Any characteristic of a thermodynamics system is called a _____.
+
+A. Property
+B. Process
+C. Phase
+D. Cycle
+
+17. How are thermodynamic properties classified?
+
+A. Physical and chemical
+B. Intensive and extensive
+C. Real and imaginary
+D. Homogeneous and heterogeneous
+
+18. The thermodynamic properties that are independent on the size of the system is called _____.
+
+A. Extensive property
+B. Intensive property
+C. Open property
+D. Closed property
+
+19. The thermodynamic properties that are dependent on the size or extent of the system is called _____.
+
+A. Extensive property
+B. Intensive property
+C. Open property
+D. Closed property
+
+20. Which is NOT an intensive property of thermodynamics?
+
+A. Temperature
+B. Mass
+C. Pressure
+D. Density
+
+21. Which is NOT an extensive property of thermodynamics?
+
+A. Density
+B. Mass
+C. Volume
+D. Energy
+
+22. Extensive properties per unit mass are called _____.
+
+A. Specific properties
+B. Relative properties
+C. Unit properties
+D. Phase properties
+
+23. A system is in ______ equilibrium if the temperature is the same throughout the entire system.
+
+A. Static
+B. Thermal
+C. Mechanical
+D. Phase
+
+24. A system is in ______ equilibrium if there is no change in pressure at any point of the system with time.
+
+A. Pressure
+B. Thermal
+C. Mechanical
+D. Phase
+
+25. If a system involves two phases, it is in ______ equilibrium when the mass of each phase reaches an equilibrium level and stays there.
+
+A. Chemical
+B. Thermal
+C. Mechanical
+D. Phase
